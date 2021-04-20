@@ -19,16 +19,30 @@
 
 ## Screenshots
 
+* Login screen
+<img src="https://github.com/im-kb/bookstore_client/blob/dev/images/bookstore_loginscreen.png?raw=true" width="400" height="900">
 
-<img src="https://github.com/im-kb/rn_quiz_app/blob/master/quiz_main.png?raw=true" width="400" height="900">
+* Wrong password info
+<img src="https://github.com/im-kb/bookstore_client/blob/dev/images/bookstore_wrong_pwd.png?raw=true" width="400" height="900">
 
+* Browse screen
+<img src="https://github.com/im-kb/bookstore_client/blob/dev/images/bookstore_browse.png?raw=true" width="400" height="900">
 
+* Menu drawer
+<img src="https://github.com/im-kb/bookstore_client/blob/dev/images/bookstore_drawer.png?raw=true" width="400" height="900">
 
-<img src="https://github.com/im-kb/rn_quiz_app/blob/master/quiz_drawer.png?raw=true" width="400" height="900">
+* Book details
+<img src="https://github.com/im-kb/bookstore_client/blob/dev/images/bookstore_book_details.png?raw=true" width="400" height="900">
 
+* User's books
+<img src="https://github.com/im-kb/bookstore_client/blob/dev/images/bookstore_clients_books.png?raw=true" width="400" height="900">
 
+* Admin panel
+<img src="https://github.com/im-kb/bookstore_client/blob/dev/images/bookstore_admin_panel.png?raw=true" width="400" height="900">
 
-<img src="https://github.com/im-kb/rn_quiz_app/blob/master/quiz_question.png?raw=true" width="400" height="900">
+* Admin drawer
+<img src="https://github.com/im-kb/bookstore_client/blob/dev/images/bookstore_drawer_admin.png?raw=true" width="400" height="900">
+
 
  
 
